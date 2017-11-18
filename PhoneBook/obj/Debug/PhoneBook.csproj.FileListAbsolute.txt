@@ -1,0 +1,52 @@
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+c:\users\sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Sergey\documents\visual studio 2012\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+D:\Projects\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Projects\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+E:\(Work)\Луценко\Луценко\прог\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\EntityFramework.dll
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\EntityFramework.xml
+D:\Projects\С работы\PhoneBook\PhoneBook\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojResolveAssemblyReference.cache
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Projects\С работы\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.Cache
